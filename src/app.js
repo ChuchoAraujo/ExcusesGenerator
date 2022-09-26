@@ -16,7 +16,7 @@ window.onload = function() {
     "right in time",
     "when I finished",
     "during my lunch",
-    "while I was praying"
+    "while I was praying",
   ];
 
   // step 1 //
